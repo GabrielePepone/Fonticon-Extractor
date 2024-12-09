@@ -21,7 +21,7 @@ This Python script allows you to generate an image file from a FontIcon glyph, s
 
 Before running the script, ensure you have the following installed:
 
-1. Python 3.7 or later
+1. Python 3.13 or later
 2. Pillow: Install via pip:
    pip install pillow
 3. Colorama: Install via pip:
