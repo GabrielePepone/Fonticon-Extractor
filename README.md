@@ -1,4 +1,4 @@
-# Font Icon Generator
+# Fonticon Extractor
 
 This Python script generates icon images from glyphs in the Segoe Fluent Icons font. It renders a specified Unicode glyph (in the format \uE701) as an image using the PIL (Python Imaging Library). The generated icon is saved as a PNG file.
 Features
